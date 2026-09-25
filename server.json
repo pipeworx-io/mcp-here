@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/here",
   "title": "Here",
   "description": "HERE MCP — premium geocoding, places, and TRAFFIC-AWARE routing from HERE",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/here",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-here",
