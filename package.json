@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-here",
-  "version": "0.1.2",
-  "description": "HERE MCP — premium geocoding, places, and TRAFFIC-AWARE routing from HERE",
+  "version": "0.1.3",
+  "description": "HERE MCP — premium geocoding, places, and TRAFFIC-AWARE routing from HERE (here.com), the location-data platform. Adds what our keyless geo stack (nominatim/osrm/photon) can't: high-accuracy geocoding, POI/place discovery, and real-time-traffic ETAs (route duration WITH traffic vs free-flow).",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-827608abcfd29c87c8ed78ec7a39e4e73c57442c3fc07e5e88c9b22e23d398a2",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-6ea1138f715e61da59f80f7804737f4964c4c77445af2f0a15c710b3ef44f767",
+    "sourceCommit": "24e32b525f9c0b2fd7d94b519b08abb108cc11cd"
   }
 }
